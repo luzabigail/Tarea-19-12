@@ -1,5 +1,6 @@
 package Actividad1;
 // Actividad modificada por Luz Bietti desde intelliJ 
+// comentario hecho desde GitHub
 	public static boolean validPalindrome(String s) {
 	       for (int i = 0, j = s.length() - 1; i < j; i++, j--) {
 	           if (s.charAt(i) != s.charAt(j)) {
